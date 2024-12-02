@@ -1,0 +1,31 @@
+body {
+    background-color: #B3C2D5;
+}
+h2 {
+    text-align: center;
+}
+.container {
+    padding: 15px;
+    background-color:black;
+    color:whitesmoke;
+    border-radius: 10px;
+    font-family: "courier", serif;
+}
+.container2 {
+    padding: 15px;
+}
+.container4 {
+    color: #7B8491;
+    font-family: "courier", serif;
+}
+.dropdown-toggle {
+    text-align: left;
+}
+.dropdown-toggle::after {
+    left: auto;
+    right: 0;
+}
+.footer {
+    text-align: center;
+}
+
